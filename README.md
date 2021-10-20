@@ -1,5 +1,6 @@
-# ToDo-mobile
-![GitHub Logo](/assets/iconFront3.png)
+# ToDo-mobile ![GitHub Logo](/assets/iconFront3.png)
+
+![GitHub Logo](/assets/screenshot-1.jpg) ![GitHub Logo](/assets/screenshot-2.jpg)
 
 ### This is ToDo react-native applicaiton built with Expo framework for writing your daily tasks.
 
