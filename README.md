@@ -1,8 +1,6 @@
+![GitHub Logo](/assets/iconFront3.png)
 # ToDo-mobile
 This is ToDo react-native applicaiton built with Expo framework for writing your daily tasks.
-
-![GitHub Logo](/assets/iconFront3.png)
-Format: ![Alt Text](url)
 
 Test this application on Your phone! Here is the steps to follow:
 1. Please downlowad the Expo app from the Google Play or App Store;
